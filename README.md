@@ -29,5 +29,5 @@ Flask is a lightweight web application framework for Python that allows develope
 ##### sender.py in one terminal
 ```python direct_exchange/sender.py```
 
-##### sender.py in another terminal to see the message 
+##### receiver.py in another terminal to see the message 
 ```python direct_exchange/reciever.py```
